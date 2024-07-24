@@ -1,3 +1,21 @@
+# Warning
+
+<p>This script is just the result of the owner's machination. There is no element of buying and selling in this script.</p>
+
+##
+
+<h4>Bot Code Type</h4>
+
+- <b>Plugins</b>
+- ~Case~
+
+##
+
+<h4>What are we encrypting?</h4>
+
+- [x] **index.js**
+- [x] **print.js**
+- [x] **main.js**
 ##
 
 <h4>Latest changelog update</h4>
