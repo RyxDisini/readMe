@@ -4,5 +4,6 @@
 
 | ChangeLog | Published On |
 | ----- | ------------ |
-| Add Changelog | Mon May 15 2023 |
-| Mengubah File System | Wednesday 24 2024 | 
+| Mengubah File System | Wednesday July 24 2024 | 
+| Mengubah File Plugins | Wednesday July 24 2024 |
+| Fix Code From Script Dylux. | Wednesday July 24 2024 |
