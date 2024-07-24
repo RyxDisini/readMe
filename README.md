@@ -8,6 +8,14 @@
 
 - <b>Plugins</b>
 - ~Case~
+##
+
+<h4>Rules to follow when using NaomiV1 Script</h4>
+
+1. Plugin Code is Not for Sale.
+2. Removing the Developer Watermark is prohibited.
+3. This script is free, so anyone can recode it freely.
+4. Do not give your Apikey to other people.
 
 ##
 
